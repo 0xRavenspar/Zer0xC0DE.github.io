@@ -20,18 +20,5 @@
 </content>
     </item>
     
-    <item>
-      <title>first blog</title>
-      <link>/posts/posts/my-first-blog/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/posts/my-first-blog/</guid>
-      <description>&lt;h2 id=&#34;hey-there-just-a-test&#34;&gt;hey there just a test&lt;/h2&gt;
-&lt;p&gt;![[Pasted image 20241127220024.png]]&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;hey-there-just-a-test&#34;&gt;hey there just a test&lt;/h2&gt;
-&lt;p&gt;![[Pasted image 20241127220024.png]]&lt;/p&gt;
-</content>
-    </item>
-    
   </channel>
 </rss>
